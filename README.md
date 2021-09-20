@@ -25,7 +25,7 @@ Most trips fall under 1 hour for all genders.
 
 ### Trips by Weekday
 ![Trips by Weekday](https://github.com/rabascoh/bikesharing-analysis/blob/main/Resources/Trips_by_Weekday.png)
-Most trips fall within normal commuting hours (8-9am & 5-6pm) during weekdays. Weekends have more spreadout usage from late morning to early evening. 
+Most trips fall within normal commuting hours (8-9am & 5-6pm) during weekdays. Weekends have higher usage from late morning to early evening. 
 
 ### Trips by Gender
 ![Trips by Gender](https://github.com/rabascoh/bikesharing-analysis/blob/main/Resources/Trips_by_Gender.png)
