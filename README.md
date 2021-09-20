@@ -1,7 +1,7 @@
 # Bikesharing Analysis
 
 ## Overview of Bikesharing Analysis
-The purpose of this analysis is to better understand bikesharing programs to make a case for bringing a bikesharing program to Des Moines, IA.  
+The purpose of this analysis is to better understand bikesharing programs to make a case for bringing a bikesharing program to Des Moines, IA.  This analysis is based on bikesharing data from NYC's bikesharing program. 
 
 *[See the Tableau story here](https://public.tableau.com/app/profile/helena.rabasco/viz/bikesharing_analysis_deliverable2/BikesharingAnalysis)*
 
